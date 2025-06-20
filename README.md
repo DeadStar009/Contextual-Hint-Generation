@@ -51,4 +51,6 @@ npm run dev
 - Models: HuggingFace inference endpoints for:
   - Hint type classification
   - Hint generation
-  - Hint verification 
+  - Hint verification
+ 
+AUTHOR - HARSH SINGH
